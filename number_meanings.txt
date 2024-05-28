@@ -1,0 +1,8 @@
+PRODUCTS status:
+0 - available
+1 - not available
+2 - coming soon
+
+0 - Digital
+1 - Hard Cover
+2 - Audio
